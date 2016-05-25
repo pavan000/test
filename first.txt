@@ -1,2 +1,3 @@
 I am sam. I like ham.
 I am mike. I like apple.
+I am key. I like lock.
